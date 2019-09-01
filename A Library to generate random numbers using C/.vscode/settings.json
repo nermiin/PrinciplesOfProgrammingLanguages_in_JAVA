@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random.h": "c",
+        "rastgelekarakter.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c"
+    }
+}
